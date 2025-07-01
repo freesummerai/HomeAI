@@ -14,7 +14,35 @@
                 "firstIgnore_ad_minutes": 5,
                 "interstitial_ad_time_interval": 60,
                 "launch_purchase_skip_delay_secs": 3.0,
-                "api_base_url": "https://1kg789qau8.execute-api.us-east-1.amazonaws.com"
+                "api_base_url": "https://1kg789qau8.execute-api.us-east-1.amazonaws.com",
+                "ss": [
+                    {
+                        "t": "q1",
+                        "o": [
+                            "k1"
+                        ]
+                    },
+                    {
+                        "t": "q2",
+                        "o": [
+                            "k1"
+                        ]
+                    },
+                    {
+                        "t": "q3",
+                        "o": [
+                            "k1"
+                        ]
+                    },
+                    {
+                        "t": "a",
+                        "o": [
+                            "b",
+                            "d",
+                            "m"
+                        ]
+                    }
+                ]
             }
         ],
         "app_alert_config": [
