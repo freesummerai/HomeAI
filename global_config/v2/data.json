@@ -4,7 +4,7 @@
     "data": {
         "global_config": [
             {
-                "build": 1749359518,
+                "build": 1760686597,
                 "app_version_range_min": "1.0.0(1)",
                 "app_version_range_max": "99.99.99",
                 "max_weekly_logo_api_count_r1": 0,
@@ -13,8 +13,9 @@
                 "new_user_trial_count": 1,
                 "firstIgnore_ad_minutes": 5,
                 "interstitial_ad_time_interval": 60,
+                "input_image_max_pixel_size": 2048,
                 "launch_purchase_skip_delay_secs": 3.0,
-                "api_base_url": "https://1kg789qau8.execute-api.us-east-1.amazonaws.com",
+                "api_base_url": "https://d3uk18xr5d.execute-api.us-east-1.amazonaws.com",
                 "ss": [
                     {
                         "t": "q1",
